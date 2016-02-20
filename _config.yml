@@ -1,28 +1,40 @@
-name: mirror
 favicon: null
-layout_spectrum: 0.25781
-typography_spectrum: 0.49721
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: mirror
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.01229810481891036
+  brandStrength: 1
+  rhythmicContrast: 0.4877223127987236
   brandColors:
     - '#fe7041'
     - '#ffffff'
     - '#2f3435'
     - '#fea88b'
     - '#fec6b4'
-  brandStrength: 1
-  lightness: 0.12378718936815858
-  saturation: 0.01229810481891036
-  rhythmicContrast: 0.4877223127987236
-purpose: []
+  lightness: 0.1237871893681586
+typography_spectrum: 0.49721
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
