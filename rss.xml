@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mirror]]></title>
         <description><![CDATA[mirror]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mirror/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 08:37:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 20:19:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mirror/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/334b81f2-766c-404e-8440-b157e2ed9848.jpg">]]></description>
-            <link>undefinedi-was-3-years-old-when-my-grandmother-taught-me-the-gayatri/index.html</link>
+            <link>https://thegrid.ai/mirror/i-was-3-years-old-when-my-grandmother-taught-me-the-gayatri/index.html</link>
             <guid isPermaLink="false">593f24c2-1eef-47aa-bfdd-cfd8d230fe1d</guid>
-            <pubDate>Sat, 20 Feb 2016 08:37:11 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 20:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
